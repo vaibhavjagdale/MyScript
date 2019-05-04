@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def add(x,y):
     pass
 def subtract(x,y):
@@ -9,3 +10,5 @@ def diviide(x,y):
 def square(x,y):
     pass
 
+=======
+>>>>>>> parent of c3c1269... My checkin
